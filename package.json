@@ -3,11 +3,22 @@
   "description": "Coffeescript Lib Skeleton",
   "version": "0.0.0",
   "homepage": "https://github.com/sarahquigley/coffeescript-lib-skeleton",
+  "author": {
+    "name": "Sarah Quigley",
+    "email": "sarah@sarahquigley.net",
+    "url": "http://sarahquigley.net"
+  },
+  "contributors": [{
+    "name": "MiKe Stewart",
+    "email": "mike@mikestewart.net",
+    "url": "https://github.com/mstewart"
+  }],
   "repository": {
     "type": "git",
     "url": "https://github.com/sarahquigley/coffeescript-lib-skeleton.git"
   },
   "private": false,
+  "license": "MIT",
   "devDependencies": {
     "bower": "~1.4.1",
     "grunt": "~0.4.5",
